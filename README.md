@@ -11,7 +11,7 @@ Required environment variables:
 * `ACQUIA_API_KEY` and `ACQUIA_API_SECRET`; see
   [Acquia's documentation](https://docs.acquia.com/acquia-cloud/develop/api/auth/).
 
-### Shameless sales pitch; don't have a reason to need this.
+### Shameless sales pitch; why need this package in the first place?
 
 Would you rather offload CI/CD to the experts at Fruition? Learn more about our
 fully-managed, Kubernetes
