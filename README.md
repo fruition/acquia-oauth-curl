@@ -15,7 +15,7 @@ Required environment variables:
 
 Export your environment variables, then:
 ```shell script
-docker run -e ACQUIA_API_KEY -e ACQUIA_API_SECRET --rm fruitionllc/acquia-oauth-curl https://cloud.acquia.com/api/account
+docker run -e ACQUIA_API_KEY -e ACQUIA_API_SECRET --rm fruition/acquia-oauth-curl https://cloud.acquia.com/api/account
 ```
 
 ### Shameless sales pitch; why need this package in the first place?
@@ -24,4 +24,4 @@ Would you rather offload CI/CD to the experts at Fruition? Learn more about our
 fully-managed, Kubernetes
 [hosting platform](https://fruition.net/service/fully-managed-hosting/).
 
-&copy; Fruition Growth, LLC.
+&copy; Fruition Growth, LLC. MIT license.
